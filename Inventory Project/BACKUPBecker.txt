@@ -1,0 +1,99 @@
+1
+Bass Guitar
+Harvey Benton
+HBZ-5000
+450.000000
+2019
+2
+Guitar
+Schecter
+Diamond Series Omen-8
+500.000000
+2013
+3
+Guitar
+Jackson
+DK2 Dinky Eerie Dess
+500.000000
+2010
+4
+Guitar
+Ibanez
+RGRT621DPB
+700.000000
+2020
+5
+Guitar
+Ibanez
+GRG7221
+350.000000
+2012
+6
+Guitar
+Ovation
+1517D
+600.000000
+2012
+7
+Guitar
+Kona
+K394D
+200.000000
+2015
+8
+Mandolin
+Washburn
+M-1S/TS
+250.000000
+2011
+9
+Violin
+Cecilio
+CVN-300
+150.000000
+2020
+10
+E-Drums
+Roland
+TD-17KVX
+2500.00000
+2020
+11
+VST
+Toontrack
+Superior Drummer 3
+400.00000
+2020
+12
+Keyboard
+Yamaha
+YPG-225
+250.00000
+2023
+13
+Interface
+Focusrite
+Scarlette Solo
+100.00000
+2017
+14
+Microphone
+sE Electronics
+X1
+99.00000
+2020
+15
+Headphones
+Beyerdynamic
+DT 770 PRO
+160.0000
+2021
+16
+VST Addon
+Toontrack
+Death & Darkness SDX
+179.00000
+2020
+
+
+
